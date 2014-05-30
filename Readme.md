@@ -1,0 +1,1 @@
+Testando se o padrão de .gitignore que a Unity provê realmente funciona para o GitHub.
